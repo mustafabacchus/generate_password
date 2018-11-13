@@ -1,4 +1,4 @@
-###### Note: Script is not compiled.
+###### **Note: Script is not compiled.**
 ######
 ## **Prerequiste:**
 ###### 1. Macintosh based computer.
